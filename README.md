@@ -1,4 +1,3 @@
-See https://github.com/angulardart for current updates on this project.
 
 ## Packages
 
@@ -16,14 +15,6 @@ See https://github.com/angulardart for current updates on this project.
 
 &ddagger; _Infrastructure packages. Not typically used directly.
 Included for completeness._
-
-[angular]: https://github.com/angulardart/angular/tree/master/angular
-[angular_ast]: https://github.com/angulardart/angular/tree/master/angular_ast
-[angular_compiler]: https://github.com/angulardart/angular/tree/master/angular_compiler
-[angular_components]: https://github.com/angulardart/angular_components/tree/master/angular_components
-[angular_forms]: https://github.com/angulardart/angular/tree/master/angular_forms
-[angular_router]: https://github.com/angulardart/angular/tree/master/angular_router
-[angular_test]: https://github.com/angulardart/angular/tree/master/angular_test
 
 ## Resources
 
